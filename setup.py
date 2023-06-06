@@ -10,7 +10,7 @@ setuptools.setup(
     description="A small test project through which program messages can be sent back and forth to the line",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tzamou/line_notify_helper",
+    url="https://github.com/tzamou/pycr",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
